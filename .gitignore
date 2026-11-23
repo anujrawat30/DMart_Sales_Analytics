@@ -1,0 +1,28 @@
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Raw business data - keep private
+01_Raw_Data/
+*.xlsx
+*.xls
+*.csv
+
+# Log files
+05_Logs/
+*.log
+
+# Credentials and configuration
+.env
+*.ini
+
+# Temporary files
+*.tmp
